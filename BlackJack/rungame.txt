@@ -1,0 +1,3 @@
+open in terminal
+Run:
+java -jar BlackJack.jar
